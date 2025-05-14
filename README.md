@@ -6,7 +6,7 @@ Welcome to my homepage!
 
 I am Dr Shashank Singh. 
 I am a researcher. 
-I work in the area of Cryptography. 
+I work in the area of Cryptography and algorithms. 
 Currently, I am working as an assistant professor in the Department of EECS at IISER Bhopal. 
 Earlier, I worked as an Inspire Faculty in the Department of Computer Science & Engineering at IIT Kanpur,  
 a postdoctoral research fellow at INRIA, and a visiting scientist at the  R. C. Bose Centre for Cryptology & Security. 
