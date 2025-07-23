@@ -2,8 +2,8 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
-  href: /about/
+#- text: About
+#  href: /about/
 - text: Team
   href: /team/
 - text: Blog
@@ -19,6 +19,6 @@
   - text: "Dropdown header" # Title for block of menu items
   - text: Page with custom navigation
     href: /docs/custom-navigation/
-- text: GitHub
-  href: https://github.com/peterdesmet/petridish/
-  new_window: true
+#- text: GitHub
+#  href: https://github.com/peterdesmet/petridish/
+#  new_window: true

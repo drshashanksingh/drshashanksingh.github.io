@@ -1,28 +1,28 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Dr Shashank Singh
+  role: Researcher # Will appear next to name
+  image: assets/theme/images/shashank.png # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+    Cryptographer and Algorithm researcher. Assistant Professor at IISER Bhopal.
+    Formerly, Inspire Faculty at IIT Kanpur, Postdoc at INRIA, and Visiting Scientist at R. C. Bose Centre for Cryptology & Security.
+  # Optional social profiles, uncomment to show
   orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  bluesky: bluesky_username.bsky.social
-  mastodon: https://mastodon.social/@mastodon_username
-  twitter: twitter_username
+  #researchgate: researchgate_username
+  googlescholar: ONLdsy0AAAAJ
+  #bluesky: bluesky_username.bsky.social
+  #mastodon: https://mastodon.social/@mastodon_username
+  #twitter: twitter_username
+  #linkedin: linkedin_username
+  github: drshashanksingh
+  email: sha2nk.singh@gmail.com
+  
+- name: Biswajit Mandal
+  role: PhD Student
+  image: assets/theme/images/biswa.png
+  description: >
+    PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+    Research interests include Post Quantum Cryptography (Lattice Based Cryptography).
+  email: biswajit22@iiserb.ac.in 
   linkedin: linkedin_username
   github: github_username
-  email: name@example.com
-
-- name: Turanga Leela
-  role: Captain
-  description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
-
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
-  description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).

@@ -1,20 +1,25 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-author: Peter Desmet                    # Used for copyright statement in footer
-baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+title: Shashank                        # Title in top navigation bar (navbar) and <head>
+author: Shashank Singh                    # Used for copyright statement in footer
+#url: "http://localhost/~shashank"
+#baseurl: ""                             # Only required if your site is in a directory e.g. http://localhost/~shashank/sitename
+                                        # which has url: "http://localhost/~shashank" (no slash) and baseurl: "/sitename" (leading slash)
+                                        # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
+url: "https://drshashanksingh.github.io"
+baseurl: "/xyz"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 
 # SOCIAL PROFILES
 social:
-  email: name@example.com
-  bluesky: bluesky_username.bsky.social
-  mastodon: https://mastodon.social/@mastodon_username
-  twitter: twitter_username
-  linkedin: https://linkedin.com/company/project_name/
-  facebook: https://facebook.com/groups/group_id/
-  github: github_username               # Can also be a github_username/repository
-  disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
+  email: sha2nk.singh@gmail.com
+  #bluesky: bluesky_username.bsky.social
+  #mastodon: https://mastodon.social/@mastodon_username
+  #twitter: twitter_username
+  #linkedin: https://linkedin.com/company/project_name/
+  #facebook: https://facebook.com/groups/group_id/
+  github: drshashanksingh               # Can also be a github_username/repository
+  #disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
@@ -26,7 +31,7 @@ colors:
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-logo: /assets/theme/images/petri-dish_1f9eb.png # Logo in navbar, will be displayed with 30px height
+logo: /assets/theme/images/logo.png # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown
