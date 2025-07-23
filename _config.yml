@@ -1,12 +1,12 @@
 # SITE SETTINGS
 title: Shashank                        # Title in top navigation bar (navbar) and <head>
 author: Shashank Singh                    # Used for copyright statement in footer
-#url: "http://localhost/~shashank"
-#baseurl: ""                             # Only required if your site is in a directory e.g. http://localhost/~shashank/sitename
+url: "http://127.0.0.1/~shashank"
+baseurl: "/~shashank/xyz"                             # Only required if your site is in a directory e.g. http://localhost/~shashank/sitename
                                         # which has url: "http://localhost/~shashank" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 #url: "https://drshashanksingh.github.io"
-baseurl: "/xyz"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+#baseurl: "/xyz"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 
