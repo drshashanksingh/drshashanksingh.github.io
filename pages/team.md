@@ -2,6 +2,7 @@
 layout: team
 title: Cryptography Research Group
 description: EECS IISER Bhopal
+background: /assets/theme/images/random.jpg
 permalink: /team/
 ---
 
