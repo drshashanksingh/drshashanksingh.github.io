@@ -8,15 +8,21 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Documentation
+- text: Teaching # Optional, can be used to link to a teaching page
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /docs/installation/
-  - text: Configuration
-    href: /docs/configuration/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
+  - text: Modern Cryptography
+    href: http://localhost/~shashank/crypto25
+  - text: "---"
+  - text: Algorithms
+    href: /teaching/algorithms/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
+  - text: Data Structures and Algorithms
+    href: /teaching/data-structures/ 
+  #- text: Configuration
+  #  href: /docs/configuration/
+  #- href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  #- text: "Dropdown header" # Title for block of menu items
   - text: Page with custom navigation
     href: /docs/custom-navigation/
 #- text: GitHub

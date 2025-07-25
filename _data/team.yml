@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Dr Shashank Singh
-  role: Researcher # Will appear next to name
+  role: Principal Investigator # Will appear next to name
   image: assets/theme/images/shashank.png # Can be external link
   description: > # Can be Markdown
     Cryptographer and Algorithm researcher. Assistant Professor at IISER Bhopal.
@@ -18,7 +18,7 @@
   email: sha2nk.singh@gmail.com
   
 - name: Biswajit Mandal
-  role: PhD Student
+  role: Research Scholar
   image: assets/theme/images/biswa.png
   description: >
     PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
