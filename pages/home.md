@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Dr Shashank Singh
-description: a personal webpage or lab website
+description: a personal and lab webpage
 background: /assets/theme/images/duck.jpg
 permalink: /
 ---
@@ -23,17 +23,17 @@ My research interests include:
 
 ## Contact
 
-### Email Address: 
+#### Email Address: 
   ```
   <firstname>@iiserb.ac.in, sha2nk.<surname>@gmail.com
   ```
 
-### Public Key:
+#### Public Key:
 
   - PGP public key: [1461267A](https://keyserver.ubuntu.com/pks/lookup?search=sha2nk.singh%40gmail.com&fingerprint=on&op=index) 
   - Fingerprint: 9154 D76F 77F3 F7C5 83B0  BA98 2E37 0E1A 1461 267A
 
-### Office: 
+#### Office: 
 
   - Address: 110-A, First Floor, Academic Building 4, IISER Bhopal 462066, INDIA
   - Phone: +91 755 269 2643
