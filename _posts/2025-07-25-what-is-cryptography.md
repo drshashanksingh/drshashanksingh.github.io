@@ -18,7 +18,7 @@ math: true
 - In the early days (before 1960), this was achieved through various mathematical tricks and methods that were often not very scientific in nature.
 - In contrast, modern cryptography is grounded in a solid mathematical foundation and is regarded as a branch of engineering that lies at the intersection of mathematics and computer science.
 
-## testing
+## testing mathJax
 This is an inline math expression: $\sqrt{x^2 + y^2}$.
 And this is a displayed math expression:
 $$
