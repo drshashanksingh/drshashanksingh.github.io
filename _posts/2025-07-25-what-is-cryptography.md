@@ -5,8 +5,8 @@ background: /assets/theme/images/peacock.jpg
 permalink: /wic/
 author: [Dr Shashank Singh]
 tags: [cryptography, maths]
-toc: false
-comments: false # See posts
+toc: true
+comments: true # See posts
 published: true # See posts
 ---
 
