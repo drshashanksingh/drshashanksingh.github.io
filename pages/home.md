@@ -10,7 +10,7 @@ permalink: /
 
 I am Dr. Shashank Singh, a researcher specialising in Cryptography and Algorithms. Currently, I serve as an assistant professor in the Department of Electrical Engineering and Computer Science (EECS) at IISER Bhopal. Previously, I held the position of Inspire Faculty in the Department of Computer Science and Engineering at IIT Kanpur, worked as a postdoctoral research fellow at INRIA, and was a visiting scientist at the R. C. Bose Centre for Cryptology and Security. I completed my Ph.D. in Computer Science at the Indian Statistical Institute, where I was supervised by Prof. Palash Sarkar.
 
-> [!NOTE]
+> [!IMPORTANT]
 > I am currently not accepting applications for internships of less than six months duration, specifically during the summer and winter periods. Please refrain from contacting me regarding this matter, as I will not be able to respond to such inquiries.
 
 ## Research Interest

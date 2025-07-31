@@ -1,7 +1,10 @@
 ---
 title: What is Cryptography?
+date: 2025-07-31 11:27:15 +0530
 description: Ancient cryptography vs Modern Cryptograph
-background: /assets/theme/images/peacock.jpg
+background: 
+  img: /assets/theme/images/peacock.jpg
+  by: Shashank Singh
 permalink: /wic/
 author: [Dr Shashank Singh]
 tags: [cryptography, maths]
