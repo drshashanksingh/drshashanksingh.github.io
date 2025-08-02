@@ -6,7 +6,7 @@ author: Shashank Singh                    # Used for copyright statement in foot
                                         # which has url: "http://localhost/~shashank" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 url: "https://drshashanksingh.github.io"
-baseurl: "/xyz"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: ""                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 
