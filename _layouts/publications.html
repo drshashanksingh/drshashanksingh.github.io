@@ -9,7 +9,7 @@ permalink: /publications/
 
 {{ content}}
 
-
+<h2>Journal Articles and Conference Papers</h2>
 {% for pub in site.data.refs %}
 <!---
 {% if forloop.first %}
@@ -29,7 +29,11 @@ permalink: /publications/
 <h2>Other Publications</h2>   
 {% endif %}
 --->
+<table>
+<tr>
 
+ <td><i class="fas fa-newspaper fa-3x"></i></td>
+ <td>
 {% if pub.title %} <div> {{ pub.title }}, </div> {% endif %}
 {% if pub.author %}
   <div style="font-weight: bold; font-style: italic;">{{ pub.author }},</div>
@@ -41,26 +45,16 @@ permalink: /publications/
   {% if pub.booktitle %} {{ pub.booktitle }}, {% endif %}
   {% if pub.journal %} {{ pub.journal }}, {% endif %}
   {% if pub.pages %} <a> Pages: {{ pub.pages }}</a>, {% endif %}
-  {% if pub.volumes %} Volume: {{ pub.volumes }}, {% endif %}
-  {% if pub.year %} {{ pub.year }} {% endif %}
+  {% if pub.volume %} Volume: {{ pub.volume }}, {% endif %}
+  {% if pub.year %} {{ pub.year }}; {% endif %}
+
+  {% if pub.url %} <a href="{{ pub.url }}">Link</a>, {% endif %}
+  {% if pub.doi %} <a href="https://doi.org/{{ pub.doi }}">DOI</a>,{% endif %}
+  {% if pub.arxiv %} <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>,{% endif %}
+  {% if pub.code %} <a href="{{ pub.code }}">Code</a>,{% endif %}
 </div>
-
-
-
-<div>
-{% if pub.url %}
-  <a href="{{ pub.url }}">Link</a>,
-{% endif %}
-{% if pub.doi %}
-  <a href="https://doi.org/{{ pub.doi }}">DOI</a>,
-{% endif %}
-{% if pub.arxiv %}
-  <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>,
-{% endif %}
-{% if pub.code %}
-  <a href="{{ pub.code }}">Code</a>,
-{% endif %}
-</div>
-<hr>
+ </td>
+</tr>
+</table>
 {% endfor %}
 

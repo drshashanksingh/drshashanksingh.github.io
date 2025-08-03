@@ -26,8 +26,9 @@
   author: Guillevic, Aurore and Singh, Shashank
   url: https://journals.flvc.org/mathcryptology/article/view/125142
   volume: '1'
-  title: On the alpha value of polynomials in the Tower Number Field Sieve Algorithm
+  title: 'On the alpha value of polynomials in the Tower Number Field Sieve Algorithm'
   ENTRYTYPE: article
+  journal: Transactions on Mathematical Cryptology
   ID: Guillevic_Singh_2021
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/indocrypt/KumarMS18.bib
@@ -63,12 +64,8 @@
   number: '2'
   volume: '28'
   journal: Appl. Algebra Eng. Commun. Comput.
-  title: 'A simple method for obtaining relations among factor basis elements
-
-    for special hyperelliptic curves'
-  author: 'Palash Sarkar and
-
-    Shashank Singh'
+  title: 'A simple method for obtaining relations among factor basis elements for special hyperelliptic curves'
+  author: 'Palash Sarkar and Shashank Singh'
   ENTRYTYPE: article
   ID: DBLP:journals/aaecc/SarkarS17
 - bibsource: dblp computer science bibliography, https://dblp.org
@@ -81,12 +78,8 @@
   number: '3'
   volume: '82'
   journal: Des. Codes Cryptogr.
-  title: 'A new method for decomposition in the Jacobian of small genus hyperelliptic
-
-    curves'
-  author: 'Palash Sarkar and
-
-    Shashank Singh'
+  title: 'A new method for decomposition in the Jacobian of small genus hyperelliptic curves'
+  author: 'Palash Sarkar and Shashank Singh'
   ENTRYTYPE: article
   ID: DBLP:journals/dcc/Sarkar017
 - bibsource: dblp computer science bibliography, https://dblp.org
@@ -98,13 +91,9 @@
   pages: 2233--2253
   number: '4'
   volume: '62'
-  journal: '{IEEE} Trans. Inf. Theory'
-  title: 'Fine Tuning the Function Field Sieve Algorithm for the Medium Prime
-
-    Case'
-  author: 'Palash Sarkar and
-
-    Shashank Singh'
+  journal: 'IEEE, Trans. Inf. Theory'
+  title: 'Fine Tuning the Function Field Sieve Algorithm for the Medium Prime Case'
+  author: 'Palash Sarkar and Shashank Singh'
   ENTRYTYPE: article
   ID: DBLP:journals/tit/Sarkar016
 - bibsource: dblp computer science bibliography, https://dblp.org
@@ -117,20 +106,10 @@
   pages: 429--458
   volume: '9665'
   series: Lecture Notes in Computer Science
-  booktitle: 'Advances in Cryptology - {EUROCRYPT} 2016 - 35th Annual International
-
-    Conference on the Theory and Applications of Cryptographic Techniques,
-
-    Vienna, Austria, May 8-12, 2016, Proceedings, Part {I}'
-  title: 'New Complexity Trade-Offs for the (Multiple) Number Field Sieve Algorithm
-
-    in Non-Prime Fields'
-  editor: 'Marc Fischlin and
-
-    Jean{-}S{\''{e}}bastien Coron'
-  author: 'Palash Sarkar and
-
-    Shashank Singh'
+  booktitle: 'Advances in Cryptology - {EUROCRYPT} 2016 - 35th Annual International Conference on the Theory and Applications of Cryptographic Techniques, Vienna, Austria, May 8-12, 2016, Proceedings, Part {I}'
+  title: 'New Complexity Trade-Offs for the (Multiple) Number Field Sieve Algorithm in Non-Prime Fields'
+  editor: 'Marc Fischlin and Jean{-}S{\''{e}}bastien Coron'
+  author: 'Palash Sarkar and Shashank Singh'
   ENTRYTYPE: inproceedings
   ID: DBLP:conf/eurocrypt/Sarkar016
 - bibsource: dblp computer science bibliography, https://dblp.org
