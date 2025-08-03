@@ -21,7 +21,7 @@ Swal.fire({
   theme: "dark",
   text: "I am currently not accepting applications for internships of less than six months duration, specifically during the summer and winter periods. Please refrain from contacting me regarding this matter, as I will not be able to respond to such inquiries",
   showConfirmButton: true,
-  timer: 8000
+  timer: 8
 });
 </script>
 ## Research Interest

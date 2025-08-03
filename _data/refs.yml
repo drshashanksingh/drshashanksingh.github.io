@@ -1,0 +1,188 @@
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/amco/MukhopadhyaySST22.bib
+  timestamp: Mon, 04 Jul 2022 08:26:35 +0200
+  doi: 10.3934/AMC.2020119
+  url: https://doi.org/10.3934/amc.2020119
+  year: '2022'
+  pages: 449--464
+  number: '3'
+  volume: '16'
+  journal: Adv. Math. Commun.
+  title: 'New discrete logarithm computation for the medium prime case using
+
+    the function field sieve'
+  author: 'Madhurima Mukhopadhyay and
+
+    Palash Sarkar and
+
+    Shashank Singh and
+
+    Emmanuel Thom{\''{e}}'
+  ENTRYTYPE: article
+  ID: DBLP:journals/amco/MukhopadhyaySST22
+- pages: 1-39
+  month: Feb.
+  year: '2021'
+  author: Guillevic, Aurore and Singh, Shashank
+  url: https://journals.flvc.org/mathcryptology/article/view/125142
+  volume: '1'
+  title: On the alpha value of polynomials in the Tower Number Field Sieve Algorithm
+  ENTRYTYPE: article
+  ID: Guillevic_Singh_2021
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/conf/indocrypt/KumarMS18.bib
+  timestamp: Fri, 28 Oct 2022 18:08:17 +0200
+  doi: 10.1007/978-3-030-05378-9\_7
+  url: https://doi.org/10.1007/978-3-030-05378-9\_7
+  year: '2018'
+  publisher: Springer
+  pages: 120--133
+  volume: '11356'
+  series: Lecture Notes in Computer Science
+  booktitle: 'Progress in Cryptology - {INDOCRYPT} 2018 - 19th International Conference
+
+    on Cryptology in India, New Delhi, India, December 9-12, 2018, Proceedings'
+  title: Cryptanalysis of 2 Round Keccak-384
+  editor: 'Debrup Chakraborty and
+
+    Tetsu Iwata'
+  author: 'Rajendra Kumar and
+
+    Nikhil Mittal and
+
+    Shashank Singh'
+  ENTRYTYPE: inproceedings
+  ID: DBLP:conf/indocrypt/KumarMS18
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/aaecc/SarkarS17.bib
+  timestamp: Mon, 15 Jun 2020 16:57:31 +0200
+  doi: 10.1007/S00200-016-0299-2
+  url: https://doi.org/10.1007/s00200-016-0299-2
+  year: '2017'
+  pages: 109--130
+  number: '2'
+  volume: '28'
+  journal: Appl. Algebra Eng. Commun. Comput.
+  title: 'A simple method for obtaining relations among factor basis elements
+
+    for special hyperelliptic curves'
+  author: 'Palash Sarkar and
+
+    Shashank Singh'
+  ENTRYTYPE: article
+  ID: DBLP:journals/aaecc/SarkarS17
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/dcc/Sarkar017.bib
+  timestamp: Mon, 17 Jun 2019 13:43:17 +0200
+  doi: 10.1007/S10623-016-0184-9
+  url: https://doi.org/10.1007/s10623-016-0184-9
+  year: '2017'
+  pages: 601--616
+  number: '3'
+  volume: '82'
+  journal: Des. Codes Cryptogr.
+  title: 'A new method for decomposition in the Jacobian of small genus hyperelliptic
+
+    curves'
+  author: 'Palash Sarkar and
+
+    Shashank Singh'
+  ENTRYTYPE: article
+  ID: DBLP:journals/dcc/Sarkar017
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/journals/tit/Sarkar016.bib
+  timestamp: Tue, 10 Mar 2020 10:50:05 +0100
+  doi: 10.1109/TIT.2016.2528996
+  url: https://doi.org/10.1109/TIT.2016.2528996
+  year: '2016'
+  pages: 2233--2253
+  number: '4'
+  volume: '62'
+  journal: '{IEEE} Trans. Inf. Theory'
+  title: 'Fine Tuning the Function Field Sieve Algorithm for the Medium Prime
+
+    Case'
+  author: 'Palash Sarkar and
+
+    Shashank Singh'
+  ENTRYTYPE: article
+  ID: DBLP:journals/tit/Sarkar016
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/conf/eurocrypt/Sarkar016.bib
+  timestamp: Tue, 14 May 2019 10:00:53 +0200
+  doi: 10.1007/978-3-662-49890-3\_17
+  url: https://doi.org/10.1007/978-3-662-49890-3\_17
+  year: '2016'
+  publisher: Springer
+  pages: 429--458
+  volume: '9665'
+  series: Lecture Notes in Computer Science
+  booktitle: 'Advances in Cryptology - {EUROCRYPT} 2016 - 35th Annual International
+
+    Conference on the Theory and Applications of Cryptographic Techniques,
+
+    Vienna, Austria, May 8-12, 2016, Proceedings, Part {I}'
+  title: 'New Complexity Trade-Offs for the (Multiple) Number Field Sieve Algorithm
+
+    in Non-Prime Fields'
+  editor: 'Marc Fischlin and
+
+    Jean{-}S{\''{e}}bastien Coron'
+  author: 'Palash Sarkar and
+
+    Shashank Singh'
+  ENTRYTYPE: inproceedings
+  ID: DBLP:conf/eurocrypt/Sarkar016
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/conf/asiacrypt/Sarkar016.bib
+  timestamp: Tue, 14 May 2019 10:00:40 +0200
+  doi: 10.1007/978-3-662-53887-6\_2
+  url: https://doi.org/10.1007/978-3-662-53887-6\_2
+  year: '2016'
+  pages: 37--62
+  volume: '10031'
+  series: Lecture Notes in Computer Science
+  booktitle: 'Advances in Cryptology - {ASIACRYPT} 2016 - 22nd International Conference
+
+    on the Theory and Application of Cryptology and Information Security,
+
+    Hanoi, Vietnam, December 4-8, 2016, Proceedings, Part {I}'
+  title: 'A General Polynomial Selection Method and New Asymptotic Complexities
+
+    for the Tower Number Field Sieve Algorithm'
+  editor: 'Jung Hee Cheon and
+
+    Tsuyoshi Takagi'
+  author: 'Palash Sarkar and
+
+    Shashank Singh'
+  ENTRYTYPE: inproceedings
+  ID: DBLP:conf/asiacrypt/Sarkar016
+- bibsource: dblp computer science bibliography, https://dblp.org
+  biburl: https://dblp.org/rec/conf/mycrypt/MenezesS016.bib
+  timestamp: Tue, 14 May 2019 10:00:48 +0200
+  doi: 10.1007/978-3-319-61273-7\_5
+  url: https://doi.org/10.1007/978-3-319-61273-7\_5
+  year: '2016'
+  publisher: Springer
+  pages: 83--108
+  volume: '10311'
+  series: Lecture Notes in Computer Science
+  booktitle: 'Paradigms in Cryptology - Mycrypt 2016. Malicious and Exploratory
+
+    Cryptology - Second International Conference, Mycrypt 2016, Kuala
+
+    Lumpur, Malaysia, December 1-2, 2016, Revised Selected Papers'
+  title: 'Challenges with Assessing the Impact of {NFS} Advances on the Security
+
+    of Pairing-Based Cryptography'
+  editor: 'Raphael C.{-}W. Phan and
+
+    Moti Yung'
+  author: 'Alfred Menezes and
+
+    Palash Sarkar and
+
+    Shashank Singh'
+  ENTRYTYPE: inproceedings
+  ID: DBLP:conf/mycrypt/MenezesS016
