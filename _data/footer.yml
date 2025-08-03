@@ -8,8 +8,11 @@ columns:
     - text: Dr Shashank Singh #Name of project partner 1
       href: https://sites.google.com/view/shashank
       new_window: true
-    - text: Teaching # Prestigious and long name of project partner 2
-      href: https://drshashanksingh.github.io/crypto25/
+    - text: Google Scholar # Prestigious and long name of project partner 2
+      href: https://scholar.google.com/citations?hl=en&user=&user=ONLdsy0AAAAJ
+      new_window: true
+    - text: DBLP # Prestigious and long name of project partner 2
+      href: http://dblp.uni-trier.de/pers/hd/s/Singh_0001:Shashank
       new_window: true
 
   #- description: > # E.g. funding acknowledgement. Can be Markdown
@@ -18,7 +21,9 @@ columns:
   #    to customize this text.
 
   - description: >
-      Personal and research webpage of Dr Shashank Singh.
+      I am Dr. Shashank Singh, a researcher specialising in Cryptography and 
+      Algorithms. Currently, I serve as an assistant professor 
+      in the Department of Electrical Engineering and Computer Science (EECS) at IISER Bhopal.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
