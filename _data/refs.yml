@@ -171,3 +171,11 @@
   howpublished: 'Cryptology ePrint Archive, Paper 2016/401'
   year: 2016,
   url: 'https://eprint.iacr.org/2016/401'
+- ID: sarkar2016irreduciblepolynomialsformbxd,
+  title: 'On Irreducible Polynomials of the Form $b(x^d)$'
+  author: 'Palash Sarkar and Shashank Singh'
+  year: 2016,
+  eprint: '1604.08303'
+  archivePrefix: 'arXiv'
+  primaryClass: 'math.NT'
+  url: 'https://arxiv.org/abs/1604.08303' 
