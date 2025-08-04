@@ -26,12 +26,12 @@ permalink: /publications/
  <td><i class="fas fa-newspaper fa-3x"></i></td>
  <td style="text-align: left;">
 
-{% if pub.title %} <span style = "font-family: cursive; font-size: 120%;">{{ pub.title | strip }}</span>, {% endif %}
+{% if pub.title %} <span>{{ pub.title | strip }}</span>, {% endif %}
 {% if pub.author %}
   <span style="font-weight: bold; font-style: italic;">{{ pub.author | strip }},</span>
 {% endif %}
 
-<span style="color: rgb(32, 32, 32);">
+<span style="color: rgb(59, 57, 57);">
   {% if pub.publisher %} {{ pub.publisher }}, {% endif %}
   {% if pub.series %} {{ pub.series }}, {% endif %}
   {% if pub.booktitle %} {{ pub.booktitle }}, {% endif %}
@@ -41,13 +41,10 @@ permalink: /publications/
   {% if pub.volume %} Volume: {{ pub.volume }}, {% endif %}
   {% if pub.year %} {{ pub.year }}; {% endif %}
 
-  {% if pub.url %} 
-        <a href="{{ pub.url }}">Link</a> 
-        {% if pub.doi %} , <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
+  {% if pub.url and pub.doi %} 
+        <a href="{{ pub.url }}">Link</a>, <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+  {% elsif pub.url %}  <a href="https://doi.org/{{ pub.doi }}">Link</a>
   {% elsif pub.doi %}  <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
-  
-  {% if pub.arxiv %}, <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>{% endif %}
-  {% if pub.code %}, <a href="{{ pub.code }}">Code</a>{% endif %}
 </span>
  </td>
 </tr>

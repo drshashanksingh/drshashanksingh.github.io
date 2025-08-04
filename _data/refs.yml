@@ -11,13 +11,7 @@
   title: 'New discrete logarithm computation for the medium prime case using
 
     the function field sieve'
-  author: 'Madhurima Mukhopadhyay and
-
-    Palash Sarkar and
-
-    Shashank Singh and
-
-    Emmanuel Thom{\''{e}}'
+  author: "Madhurima Mukhopadhyay and Palash Sarkar and Shashank Singh and Emmanuel Thom\u00e9"
   ENTRYTYPE: article
   ID: DBLP:journals/amco/MukhopadhyaySST22
 - pages: 1-39
@@ -40,7 +34,7 @@
   pages: 120--133
   volume: '11356'
   series: Lecture Notes in Computer Science
-  booktitle: 'Progress in Cryptology - {INDOCRYPT} 2018 - 19th International Conference
+  booktitle: 'Progress in Cryptology - INDOCRYPT 2018 - 19th International Conference
 
     on Cryptology in India, New Delhi, India, December 9-12, 2018, Proceedings'
   title: Cryptanalysis of 2 Round Keccak-384
