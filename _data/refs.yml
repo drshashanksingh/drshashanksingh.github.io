@@ -102,7 +102,7 @@
   series: Lecture Notes in Computer Science
   booktitle: 'Advances in Cryptology - EUROCRYPT 2016 - 35th Annual International Conference on the Theory and Applications of Cryptographic Techniques, Vienna, Austria, May 8-12, 2016, Proceedings, Part {I}'
   title: 'New Complexity Trade-Offs for the (Multiple) Number Field Sieve Algorithm in Non-Prime Fields'
-  editor: "Marc Fischlin and Jean{-}S\u00e9bastien Coron"
+  editor: "Marc Fischlin and Jean-S\u00e9bastien Coron"
   author: 'Palash Sarkar and Shashank Singh'
   ENTRYTYPE: inproceedings
   ID: DBLP:conf/eurocrypt/Sarkar016
