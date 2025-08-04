@@ -29,7 +29,8 @@ permalink: /publications/
 
 {% if pub.title %} <span>{{ pub.title | strip }}</span>, {% endif %}
 {% if pub.author %}
-  <span style="font-weight: bold; font-style: italic;">{{ pub.author | strip }},</span>
+  <!---<span style="font-weight: bold; font-style: italic;">{{ pub.author | strip }},</span>--->
+  <span style="font-weight: bold;">{{ pub.author | strip }},</span>
 {% endif %}
 
 <span style="color: rgb(66, 63, 63);">
