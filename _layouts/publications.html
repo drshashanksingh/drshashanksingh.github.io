@@ -23,7 +23,8 @@ permalink: /publications/
 --->
 <table>
 <tr>
- <td><i class="fas fa-newspaper fa-3x"></i></td>
+ <td><i class="fas fa-newspaper fa-3x"></i></td> 
+ <td><i class="fa-duotone fa-regular fa-book-open-lines"></i></td>
  <td style="text-align: left;">
 
 {% if pub.title %} <span>{{ pub.title | strip }}</span>, {% endif %}
@@ -31,7 +32,7 @@ permalink: /publications/
   <span style="font-weight: bold; font-style: italic;">{{ pub.author | strip }},</span>
 {% endif %}
 
-<span style="color: rgb(59, 57, 57);">
+<span style="color: rgb(66, 63, 63);">
   {% if pub.publisher %} {{ pub.publisher }}, {% endif %}
   {% if pub.series %} {{ pub.series }}, {% endif %}
   {% if pub.booktitle %} {{ pub.booktitle }}, {% endif %}
