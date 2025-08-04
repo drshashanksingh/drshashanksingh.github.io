@@ -17,14 +17,6 @@ permalink: /publications/
 {% endif %}
 {% if forloop.index0 == 0 %}
 <h2>Journal Articles</h2>
-{% elsif forloop.index0 == 3 %}
-<h2>Conference Papers</h2>
-{% elsif forloop.index0 == 6 %}
-<h2>Book Chapters</h2>
-{% elsif forloop.index0 == 9 %}
-<h2>Technical Reports</h2>
-{% elsif forloop.index0 == 12 %}
-<h2>Theses</h2>
 {% elsif forloop.index0 == 15 %}
 <h2>Other Publications</h2>   
 {% endif %}
@@ -33,26 +25,31 @@ permalink: /publications/
 <tr>
 
  <td><i class="fas fa-newspaper fa-3x"></i></td>
- <td>
-{% if pub.title %} <div> {{ pub.title }}, </div> {% endif %}
+ <td style="text-align: left;">
+
+{% if pub.title %} <span style = "font-family: cursive; font-size: 120%;">{{ pub.title | strip }}</span>, {% endif %}
 {% if pub.author %}
-  <div style="font-weight: bold; font-style: italic;">{{ pub.author }},</div>
+  <span style="font-weight: bold; font-style: italic;">{{ pub.author | strip }},</span>
 {% endif %}
 
-<div>
+<span style="color: rgb(32, 32, 32);">
   {% if pub.publisher %} {{ pub.publisher }}, {% endif %}
   {% if pub.series %} {{ pub.series }}, {% endif %}
   {% if pub.booktitle %} {{ pub.booktitle }}, {% endif %}
   {% if pub.journal %} {{ pub.journal }}, {% endif %}
+  {% if pub.howpublished %} {{ pub.howpublished }}, {% endif %}
   {% if pub.pages %} <a> Pages: {{ pub.pages }}</a>, {% endif %}
   {% if pub.volume %} Volume: {{ pub.volume }}, {% endif %}
   {% if pub.year %} {{ pub.year }}; {% endif %}
 
-  {% if pub.url %} <a href="{{ pub.url }}">Link</a>, {% endif %}
-  {% if pub.doi %} <a href="https://doi.org/{{ pub.doi }}">DOI</a>,{% endif %}
-  {% if pub.arxiv %} <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>,{% endif %}
-  {% if pub.code %} <a href="{{ pub.code }}">Code</a>,{% endif %}
-</div>
+  {% if pub.url %} 
+        <a href="{{ pub.url }}">Link</a> 
+        {% if pub.doi %} , <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
+  {% elsif pub.doi %}  <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
+  
+  {% if pub.arxiv %}, <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>{% endif %}
+  {% if pub.code %}, <a href="{{ pub.code }}">Code</a>{% endif %}
+</span>
  </td>
 </tr>
 </table>
