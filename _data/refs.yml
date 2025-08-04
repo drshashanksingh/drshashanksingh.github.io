@@ -93,8 +93,8 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/eurocrypt/Sarkar016.bib
   timestamp: Tue, 14 May 2019 10:00:53 +0200
-  doi: 10.1007/978-3-662-49890-3\_17
-  url: https://doi.org/10.1007/978-3-662-49890-3\_17
+  doi: "10.1007/978-3-662-49890-3_17"
+  url: "https://doi.org/10.1007/978-3-662-49890-3_17"
   year: '2016'
   publisher: Springer
   pages: 429--458
@@ -102,15 +102,15 @@
   series: Lecture Notes in Computer Science
   booktitle: 'Advances in Cryptology - {EUROCRYPT} 2016 - 35th Annual International Conference on the Theory and Applications of Cryptographic Techniques, Vienna, Austria, May 8-12, 2016, Proceedings, Part {I}'
   title: 'New Complexity Trade-Offs for the (Multiple) Number Field Sieve Algorithm in Non-Prime Fields'
-  editor: 'Marc Fischlin and Jean{-}S{\''{e}}bastien Coron'
+  editor: "Marc Fischlin and Jean{-}S\u00e9bastien Coron"
   author: 'Palash Sarkar and Shashank Singh'
   ENTRYTYPE: inproceedings
   ID: DBLP:conf/eurocrypt/Sarkar016
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/asiacrypt/Sarkar016.bib
   timestamp: Tue, 14 May 2019 10:00:40 +0200
-  doi: 10.1007/978-3-662-53887-6\_2
-  url: https://doi.org/10.1007/978-3-662-53887-6\_2
+  doi: 10.1007/978-3-662-53887-6_2
+  url: https://doi.org/10.1007/978-3-662-53887-6_2
   year: '2016'
   pages: 37--62
   volume: '10031'
@@ -134,8 +134,8 @@
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/conf/mycrypt/MenezesS016.bib
   timestamp: Tue, 14 May 2019 10:00:48 +0200
-  doi: 10.1007/978-3-319-61273-7\_5
-  url: https://doi.org/10.1007/978-3-319-61273-7\_5
+  doi: 10.1007/978-3-319-61273-7_5
+  url: https://doi.org/10.1007/978-3-319-61273-7_5
   year: '2016'
   publisher: Springer
   pages: 83--108

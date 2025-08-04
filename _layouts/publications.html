@@ -43,7 +43,7 @@ permalink: /publications/
 
   {% if pub.url and pub.doi %} 
         <a href="{{ pub.url }}">Link</a>, <a href="https://doi.org/{{ pub.doi }}">DOI</a>
-  {% elsif pub.url %}  <a href="https://doi.org/{{ pub.doi }}">Link</a>
+  {% elsif pub.url %}  <a href="{{ pub.url }}">Link</a>
   {% elsif pub.doi %}  <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
 </span>
  </td>
