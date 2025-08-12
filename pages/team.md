@@ -1,7 +1,7 @@
 ---
 layout: team
-title: Cryptography Research Group
-description: EECS IISER Bhopal
+title: People #Cryptography Research Group
+description: Lab members, collaborators and associates
 background: /assets/theme/images/random.jpg
 permalink: /team/
 ---

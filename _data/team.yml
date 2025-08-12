@@ -1,5 +1,37 @@
-# Project team members listed below will appear on the /team page
+#-------------------------------------------------------------------------------------
+# in addition to information enumerated here, a person may _optionally_ choose to 
+# create expanded information in _people/<id>.md
+#-------------------------------------------------------------------------------------
+# People are ordered on the People page as follows:
+#   in the order they are found in this file
+# However, we recommend using the order (but it is not enforced by the code):
+#   PI first, then active members, than inactive members (i.e., those with an end_date)
+#   within the active group, by start_date (oldest members first)
+#   within the inactive group, by end_date (most recently departed members first)
+#-------------------------------------------------------------------------------------
+# the 'id' field is the unique identifier used for tagging and md files
+# '_' characters are removed from the 'id' field to create the name used in Badges
+#-------------------------------------------------------------------------------------
 
+# - id: Postdoc_Fellow # used internally to identify this person, e.g., in a Newsfeed post "people" field
+#   name: Postdoc Fellow # as display on the web page People item
+#   role: Postdoctoral Fellow # will appear next to name
+#   program: null # omit if not applicable
+#   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+#   orcid: null
+#   email: pfellow22@umich.edu
+#   github: null
+#   twitter: null
+#   description: Solved really important problems in project 2.
+#   status: active # or "collaborator" or "past"
+#   current_position: PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
+#   badges:
+#     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
+
+
+#-------------------------------------------------------------------------------------
+# Principal Investigator; many fields not relevant, they always apply to the PI for their own page
+#-------------------------------------------------------------------------------------
 - name: Dr Shashank Singh
   role: Principal Investigator # Will appear next to name
   image: assets/theme/images/shashank.png # Can be external link
@@ -16,9 +48,14 @@
   #linkedin: linkedin_username
   github: drshashanksingh
   email: sha2nk.singh@gmail.com
-  
+  status: active
+
+#-------------------------------------------------------------------------------------
+# current group members
+#-------------------------------------------------------------------------------------
+
 - name: Biswajit Mandal
-  role: Research Scholar
+  role: Senior Research Scholar
   image: assets/theme/images/biswa.png
   description: >
     PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
@@ -26,3 +63,82 @@
   email: biswajit22@iiserb.ac.in 
   linkedin: linkedin_username
   github: github_username
+  status: active
+
+- name: Arup Mazumder
+  role: Project Associate
+  image: assets/people/arup.jpg
+  description: >
+    A researcher working in a project related to the Post Quantum Cryptography.
+  email: arup@iiserb.ac.in 
+  linkedin: null
+  github: null
+  status: active
+
+- name: Mrittika Nandi
+  role: Project Associate
+  image: assets/people/mrittika.jpeg
+  description: >
+    A researcher working in a project related to the Post Quantum Cryptography.
+  email: mrittikanandi@iiserb.ac.in 
+  linkedin: null
+  github: null
+  status: active
+
+#-------------------------------------------------------------------------------------
+# Recent Lab Members
+#-------------------------------------------------------------------------------------
+- name: Debadatta Kar
+  role: Junior Research Scholar
+  image: assets/people/deba.jpg
+  description: >
+    A JRF at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+    Research interests include Post Quantum Cryptography (Lattice Based Cryptography).
+  email: debadatta24@iiserb.ac.in  
+  linkedin: null
+  github: null
+  status: bnew
+
+- name: Shubham
+  role: Junior Research Scholar
+  image: assets/people/shubham.jpg
+  description: >
+    A JRF at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+    Research interests include Algorithms (Hard Lattice Problems).
+  email: debadatta24@iiserb.ac.in  
+  linkedin: null
+  github: null
+  status: bnew
+
+#-------------------------------------------------------------------------------------
+# collaborator
+#-------------------------------------------------------------------------------------
+
+#- name: SHA Mandal
+#  role: Research Scholar
+#  image: assets/people/default.jpg
+#  description: >
+#    PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+#    Research interests include Post Quantum Cryptography (Lattice Based Cryptography).
+#  email: biswajit22@iiserb.ac.in 
+#  linkedin: linkedin_username
+#  github: github_username
+#  status: collaborator
+
+
+
+#-------------------------------------------------------------------------------------
+# past group members
+#-------------------------------------------------------------------------------------
+- id: Postdoc_Fellow # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Deepak Bhati # as display on the web page People item
+  role: Project Associate # will appear next to name
+  program: null # omit if not applicable
+  image: assets/people/default.jpg # can be external link
+  orcid: null
+  email: deepak.bhati@cispa.de
+  github: null
+  twitter: null
+  description: null
+  status: past
+  current_position: PhD student, Scientific Group Joux, at CISPA Helmholtz Center for Information Security # optional, to indicate where people are now

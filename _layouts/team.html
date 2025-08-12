@@ -11,11 +11,37 @@ description: Template for team page.
 
 {{ content }}
 
-{% for member in team %}
+
+
+{% assign group_by_status = team | group_by: "status" %}
+{% assign by_status = group_by_status | sort: "name" %}
+
+{% for status_group in by_status %}
+
+{% if status_group.name == "past" %}
+<div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
+<h4>{{ status_group.name | capitalize}} members and associates</h4>
+</div>
+{% endif %}
+
+{% if status_group.name == "bnew" %}
+<div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
+<h4> Members Recently Joined</h4>
+</div>
+{% endif %}
+
+{% if status_group.name == "collaborator" %}
+<div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
+<h4>{{ status_group.name | capitalize}}s and colleagues</h4>
+</div>
+{% endif %}
+
+<!-- Shashank -->
+{% for member in status_group.items %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
-        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        <img src="{{ member.image | relative_url }}" onerror="this.onerror=null;this.src='assets/people/default.jpg';" alt="{{ member.name }}">
       {% endif %}
     </div>
     <div>
@@ -28,6 +54,11 @@ description: Template for team page.
 
       {{ member.description | markdownify }}
 
+      {% if member.current_position %}
+        <p><strong>Current Position:</strong> {{ member.current_position | markdownify }}</p>
+      {% endif %}
+    
+    
       <ul class="list-inline">
         {% if member.orcid %}
           <li class="list-inline-item">
@@ -82,7 +113,9 @@ description: Template for team page.
             <a href="mailto:{{ member.email }}"><i class="fa-regular fa-envelope"></i></a>
           </li>
         {% endif %}
+
       </ul>
     </div>
   </div>
+{% endfor %}
 {% endfor %}

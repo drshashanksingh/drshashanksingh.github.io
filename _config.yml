@@ -59,3 +59,5 @@ defaults:
       type: posts
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+      
+max_words_card_short: 25          # Maximum number of words for short person cards, can be 0
