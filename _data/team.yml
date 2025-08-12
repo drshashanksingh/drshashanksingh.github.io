@@ -110,6 +110,16 @@
   github: null
   status: bnew
 
+- name: Gagan Soni
+  role: Junior Research Fellow
+  image: assets/people/gagan.jpg
+  description: >
+    PhD student recently joined the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+  email: gagan24@iiserb.ac.in   
+  linkedin: null
+  github: null
+  status: bnew
+
 #-------------------------------------------------------------------------------------
 # collaborator
 #-------------------------------------------------------------------------------------
