@@ -39,7 +39,7 @@
     Cryptographer and Algorithm researcher. Assistant Professor at IISER Bhopal.
     Formerly, Inspire Faculty at IIT Kanpur, Postdoc at INRIA, and Visiting Scientist at R. C. Bose Centre for Cryptology & Security.
   # Optional social profiles, uncomment to show
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0002-4374-3125
   #researchgate: researchgate_username
   googlescholar: ONLdsy0AAAAJ
   #bluesky: bluesky_username.bsky.social
@@ -47,7 +47,7 @@
   #twitter: twitter_username
   #linkedin: linkedin_username
   github: drshashanksingh
-  email: sha2nk.singh@gmail.com
+  email: shashank@iiserb.ac.in
   status: active
 
 #-------------------------------------------------------------------------------------
@@ -55,7 +55,7 @@
 #-------------------------------------------------------------------------------------
 
 - name: Biswajit Mandal
-  role: Senior Research Scholar
+  role: Senior Research Fellow
   image: assets/theme/images/biswa.png
   description: >
     PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
@@ -89,10 +89,10 @@
 # Recent Lab Members
 #-------------------------------------------------------------------------------------
 - name: Debadatta Kar
-  role: Junior Research Scholar
+  role: Junior Research Fellow
   image: assets/people/deba.jpg
   description: >
-    A JRF at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+    PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
     Research interests include Post Quantum Cryptography (Lattice Based Cryptography).
   email: debadatta24@iiserb.ac.in  
   linkedin: null
@@ -100,10 +100,10 @@
   status: bnew
 
 - name: Shubham
-  role: Junior Research Scholar
+  role: Junior Research Fellow
   image: assets/people/shubham.jpg
   description: >
-    A JRF at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
+    PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
     Research interests include Algorithms (Hard Lattice Problems).
   email: debadatta24@iiserb.ac.in  
   linkedin: null
@@ -134,7 +134,7 @@
   name: Deepak Bhati # as display on the web page People item
   role: Project Associate # will appear next to name
   program: null # omit if not applicable
-  image: assets/people/default.jpg # can be external link
+  image: assets/people/deepak.jpg # can be external link
   orcid: null
   email: deepak.bhati@cispa.de
   github: null
