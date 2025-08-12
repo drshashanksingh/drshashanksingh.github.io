@@ -5,7 +5,7 @@
 columns:
   - description:
     links:
-    - text: Dr Shashank Singh #Name of project partner 1
+    - text: Google Site #Name of project partner 1
       href: https://sites.google.com/view/shashank
       new_window: true
     - text: Google Scholar # Prestigious and long name of project partner 2
@@ -21,9 +21,7 @@ columns:
   #    to customize this text.
 
   - description: >
-      I am Dr. Shashank Singh, a researcher specialising in Cryptography and 
-      Algorithms. Currently, I serve as an assistant professor 
-      in the Department of Electrical Engineering and Computer Science (EECS) at IISER Bhopal.
+      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=AdQGttxZOhxivqvE1lf-iDehnGj50i4nENbliiiJdmw"></script>
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

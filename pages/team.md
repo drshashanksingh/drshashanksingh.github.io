@@ -1,6 +1,6 @@
 ---
 layout: team
-title: People #Cryptography Research Group
+title: Cryptography Research Group at IISERB
 description: Lab members, collaborators and associates
 background: /assets/theme/images/random.jpg
 permalink: /team/

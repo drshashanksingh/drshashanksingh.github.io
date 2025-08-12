@@ -60,4 +60,6 @@ defaults:
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
       
-max_words_card_short: 25          # Maximum number of words for short person cards, can be 0
+# Set your ClustrMaps ID (set up yours at http://www.clustrmaps.com/)
+clustrmaps: BJm4TijpLW5G_cIduNR-mtJWySd1dzzVJHT4lAV8jqo
+enable_clustrmaps_icon: true 
