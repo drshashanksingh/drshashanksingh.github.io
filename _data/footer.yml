@@ -21,7 +21,7 @@ columns:
   #    to customize this text.
 
   - description: >
-      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=AdQGttxZOhxivqvE1lf-iDehnGj50i4nENbliiiJdmw"></script>
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AdQGttxZOhxivqvE1lf-iDehnGj50i4nENbliiiJdmw&w=50"></script>
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
