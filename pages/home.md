@@ -13,7 +13,7 @@ I am Dr. Shashank Singh, a researcher specialising in Cryptography and Algorithm
 > [!NOTE]
 > I am currently not accepting applications for internships of less than six months duration, specifically during the summer and winter periods. Please refrain from contacting me regarding this matter, as I will not be able to respond to such inquiries.
 
-
+<!--
 <script>
 Swal.fire({
   icon: "warning",
@@ -23,7 +23,8 @@ Swal.fire({
   showConfirmButton: true,
   timer: 3000
 });
-</script>
+</script> 
+-->
 ## Research Interest
 
 My research interests include:

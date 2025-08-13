@@ -112,26 +112,6 @@
         </div>
       {% endfor %}
       
-      <!--
-        ClustrMaps visitor counter link.
-        Displays a globe icon and links to the ClustrMaps site analytics page for this site.
-        Enable this section by setting 'enable_clustrmaps_icon' and 'clustrmaps_id' in _config.yml.
-      -->
-      {% if site.enable_clustrmaps_icon and site.clustrmaps_id %}
-        <div class="col-lg">
-          <p>
-            <a href="https://clustrmaps.com/site/{{ site.clustrmaps_id }}" target="_blank" rel="noopener noreferrer">
-              <span>
-                <i class="fa-solid fa-circle fa-stack-2x"></i>
-                <i class="fas fa-map-marked fa-stack-1x fa-inverse"></i>
-              </span>
-              <span>ClustrMaps</span>
-            </a>
-          </p>
-        </div>
-      {% endif %}
-      <!-- eND sHASHANK -->
-
     </div>
 
     <div class="small mt-2">
