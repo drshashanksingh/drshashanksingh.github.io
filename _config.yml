@@ -62,4 +62,5 @@ defaults:
       
 # Set your ClustrMaps ID (set up yours at http://www.clustrmaps.com/)
 clustrmaps: BJm4TijpLW5G_cIduNR-mtJWySd1dzzVJHT4lAV8jqo
+clustrmaps_id: 1c7l9
 enable_clustrmaps_icon: true 
