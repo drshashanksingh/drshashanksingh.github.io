@@ -21,9 +21,15 @@ columns:
   #    See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
   #    to customize this text.
 
-  - description: >
-      <div style="width: 5vw;"> <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ clustrmaps }}"></script></div>
+  #- description: >
+  #    <div style="width: 5vw;"> <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ clustrmaps }}"></script></div>
+  #  links:
+
+  - description:
     links:
+    - text: ClustrMaps
+      href: https://clustrmaps.com/site/1c7l9
+      new_window: true
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
