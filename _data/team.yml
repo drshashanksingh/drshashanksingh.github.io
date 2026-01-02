@@ -90,7 +90,7 @@
 #-------------------------------------------------------------------------------------
 - name: Debadatta Kar
   role: Junior Research Fellow
-  image: assets/people/deba.jpg
+  image: assets/people/default.jpg
   description: >
     PhD student at the Department of Electrical Engineering and Computer Science, IISER Bhopal.
     Research interests include Post Quantum Cryptography (Lattice Based Cryptography).
