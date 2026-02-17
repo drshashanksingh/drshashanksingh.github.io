@@ -1,3 +1,8 @@
+- author: "Biswajit Mandal and Shashank Singh"
+  title: "Pseudorandomness of Knapsacks over a Number Ring"
+  howpublished: "Cryptology ePrint Archive, Paper 2026/270"
+  year: 2026
+  url: "https://eprint.iacr.org/2026/270"
 - author: "Arup Mazumder and Mrittika Nandi and Shashank Singh"
   title: "Round-Optimal Identity-Based Blind Signature from Module Lattice Assumptions"
   howpublished: "Cryptology ePrint Archive, Paper 2026/226"
