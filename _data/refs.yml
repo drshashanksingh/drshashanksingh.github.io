@@ -1,11 +1,18 @@
+- author: "Arup Mazumder and Mrittika Nandi and Shashank Singh"
+  title: "Round-Optimal Identity-Based Blind Signature from Module Lattice Assumptions"
+  howpublished: "Cryptology ePrint Archive, Paper 2026/226"
+  year: 2026"
+  url: "https://eprint.iacr.org/2026/226"
 - author: "Bhati, Deepak and Singh, Shashank"
   editor: "Karfa, Chandan and Asadi, Navid and Chattopadhyay, Anupam"
   title: "A New Perspective on the Decomposition in the Jacobian of Small Genus Hyperelliptic Curve"
   booktitle: "Security, Privacy, and Applied Cryptography Engineering"
-  year: "2026"
+  year: "2025"
   publisher: "Springer Nature Switzerland"
   pages: "58--78"
   isbn: "978-3-032-16342-4"
+  doi: 10.1007/978-3-032-16342-4_4
+  url: "https://link.springer.com/chapter/10.1007/978-3-032-16342-4_4"
 - bibsource: dblp computer science bibliography, https://dblp.org
   biburl: https://dblp.org/rec/journals/amco/MukhopadhyaySST22.bib
   timestamp: Mon, 04 Jul 2022 08:26:35 +0200
