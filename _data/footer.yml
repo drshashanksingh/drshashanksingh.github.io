@@ -15,6 +15,9 @@ columns:
     - text: DBLP # Prestigious and long name of project partner 2
       href: http://dblp.uni-trier.de/pers/hd/s/Singh_0001:Shashank
       new_window: true
+    - text: Orcid # 
+      href: https://orcid.org/0000-0002-4374-3125
+      new_window: true
 
   #- description: > # E.g. funding acknowledgement. Can be Markdown
   #    This project is made with ❤ for open source.
